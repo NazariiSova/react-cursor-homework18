@@ -9,7 +9,9 @@ class Buttons extends React.Component {
         }
     }
 
-   this.HandlerChangeButton()
+//    this.HandlerChangeButton( 
+//     // I`m here
+//     )
 
     render () {
 
