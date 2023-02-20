@@ -1,0 +1,9 @@
+.timer {
+    background-color: green;
+    height: 50px;
+    transition: all 0.4s;
+    border-radius: 5px;
+}
+body {
+background-color: silver;
+}
